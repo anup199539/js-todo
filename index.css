@@ -1,0 +1,39 @@
+body{
+    border: 2px  ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#container
+{
+    background-color: antiquewhite;
+    width : 400px;
+    height : 360px;
+    text-align: center;
+}
+#inpt
+{
+    width: 320px;
+    height: 40px;
+}
+#btn{
+    background-color: blue;
+    height: 40px;
+    color: white;
+}
+#container2
+{
+    display: flex;
+    justify-content: left;
+    text-align: center;
+    margin-top: 20px;
+}
+.anup{
+    border: 1px solid;
+    width: 320px;
+    height: 40px; 
+    margin-left: 10px;
+    
+}
